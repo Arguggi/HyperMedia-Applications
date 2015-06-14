@@ -1,0 +1,18 @@
+var codropsEvents = {
+    '06-02-2015' : '<p>08:00 a.m.</p><a href="../courses/oneCourse.html?Aerobics"><p>Aerobics</p></a><a href="../instructors/oneInstructor.html?Rachel"><p>Rachel</p></a>',
+    '06-03-2015' : '<p>09:00 a.m.</p><a href="../courses/oneCourse.html?Boxing"><p>Boxing</p></a>',
+    '06-04-2015' : '<p>09:15 a.m.</p><a href="../courses/oneCourse.html?Combat Force"><p>Combat Force</p></a>',
+    '06-05-2015' : '<p>09:15 a.m.</p><a href="../courses/oneCourse.html?Hatha Yoga"><p>Hatha Yoga</p></a><a href="../instructors/oneInstructor.html?Chandler"><p>Chandler</p></a>',
+    '06-06-2015' : '<p>09:15 a.m.</p><a href="../courses/oneCourse.html?Kick Boxing"><p>Kick Boxing</p></a><a href="../instructors/oneInstructor.html?Phoebe"><p>Phoebe</p></a>',
+    '06-07-2015' : '<p>09:15 a.m.</p><a href="../courses/oneCourse.html?Muay Thai"><p>Muay Thai</p></a><a href="../instructors/oneInstructor.html?Adam"><p>Adam</p></a>',
+    '06-08-2015' : '<p>09:15 a.m.</p><a href="../courses/oneCourse.html?Pilates"><p>Pilates</p></a>',
+    '06-09-2015' : '<p>09:00 a.m.</p><a href="../courses/oneCourse.html?Power Yoga"><p>Power Yoga</p><a href="../instructors/oneInstructor.html?Mia"><p>Mia</p></a>',
+    '06-12-2015' : '<p>10:30 a.m.</p><a href="../courses/oneCourse.html?Pump"><p>Pump</p><a href="../instructors/oneInstructor.html?Ross"><p>Ross</p></a>',
+    '06-13-2015' : '<p>10:30 a.m.</p><a href="../courses/oneCourse.html?Step"><p>Step</p></a>',
+    '06-14-2015' : '<p>10:30 a.m.</p><a href="../courses/oneCourse.html?TRX Training"><p>TRX</p><a href="../instructors/oneInstructor.html?Katie"><p>Katie</p></a>',
+    '06-15-2015' : '<p>10:30 a.m.</p><a href="../courses/oneCourse.html?Zumba"><p>Zumba</p></a><a href="../instructors/oneInstructor.html?Rachel"><p>Rachel</p></a>',
+    '06-16-2015' : '<p>10:15 a.m.</p><a href="../courses/oneCourse.html?Muay Thai"><p>Muay Thai</p></a><a href="../instructors/oneInstructor.html?Adam"><p>Adam</p></a>',
+    '06-25-2015' : '<p>06:00 p.m.</p><a href="../courses/oneCourse.html?Pilates"><p>Pilates</p></a>',
+    '06-26-2015' : '<p>06:00 p.m.</p><a href="../courses/oneCourse.html?Step"><p>Step</p></a>',
+    '06-28-2015' : '<p>06:00 p.m.</p><a href="../courses/oneCourse.html?Aerobics"><p>Aerobics</p></a><a href="../instructors/oneInstructor.html?Rachel"><p>Rachel</p></a>',
+};
