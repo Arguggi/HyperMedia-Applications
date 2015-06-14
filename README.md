@@ -7,7 +7,9 @@ We didn't use any pre-made template, everything is simple html + js with php on 
 # Database access
 
 For security reasons the variables needed to connect to the database are provided by
-apache on my server, so that nothing is stored on git/github. In order to use your credentials
-change the WEBSITE/php/\*.php files, in particular this line:
+apache on my server, so that nothing is stored on git/github.
+
+In order to use your local database import the biggym.sql file and then change the `WEBSITE/php/\*.php`
+files, in particular this line:
 
 `$mysqli = new mysqli(getenv("mysqli_default_host"), getenv("mysqli_default_user"),getenv("mysqli_default_pw"),getenv("mysqli_default_table"));`
