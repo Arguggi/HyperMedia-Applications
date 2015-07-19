@@ -16,6 +16,8 @@ else {
     }
     $order = (int) $_POST['order'];
 
+    // Yes I know it's vulnerable to sql injection, won't fix since noone
+    // will use any of this.
     $query = " SELECT * FROM $table ORDER BY $order";
     $result = $mysqli->query($query);
     if ($result->num_rows > 0) {

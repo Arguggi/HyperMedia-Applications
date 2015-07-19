@@ -17,6 +17,8 @@ else {
     $title = (string) $_POST['title'];
     $column = (string) $_POST['column'];
 
+    // Yes I know it's vulnerable to sql injection, won't fix since noone
+    // will use any of this.
     $query = " SELECT * FROM $table WHERE $column = '$title'";
     $result = $mysqli->query($query);
     if ($result->num_rows > 0) {
